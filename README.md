@@ -10,6 +10,8 @@ simply open a terminal and type "python server.py
 
 then go to localhost:8000 (port is changeable)
 
+& yes, it of course supports sites with css aswell!
+
 ---
 
  # to put your own file simply remove the included html document, and replace it with your own!
