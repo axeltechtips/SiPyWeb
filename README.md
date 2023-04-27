@@ -1,5 +1,11 @@
 # SiPyWeb
 
+to install git clone this repo "git clone https://github.com/colebolebole/SiPyWeb.git"
+
+and/or use the desktop app (https://github.com/colebolebole/SiPyWeb/releases/tag/app)
+
+---
+
 simply open a terminal and type "python server.py
 
 then go to localhost:8000 (port is changeable)
