@@ -2,7 +2,7 @@
 
 simply open a terminal and type "python server.py
 
-then go to localhost:8000
+then go to localhost:8000 (port is changeable)
 
 ---
 
