@@ -4,6 +4,8 @@ to install git clone this repo "git clone https://github.com/colebolebole/SiPyWe
 
 and/or use the desktop app (https://github.com/colebolebole/SiPyWeb/releases/tag/app)
 
+Dont want to host it using your own hardware? no worries! check out the replit template - https://replit.com/@colebolebole/SiPyWeb?v=1
+
 ---
 
 simply open a terminal and type "python server.py
